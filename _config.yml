@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: horrylala Blog
+SEOTitle: 王永林的博客 | horrylala Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: horrylala@outlook.com
+description: "Cool blog | 大前端 , Web SoftWare Enginner | 这是horrylala的私人博客"
+keyword: "horrylala, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+#url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     horrylala
+zhihu_username:     horrylala
+github_username:    horrylala
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -59,7 +57,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+#disqus_username: horrylala
 
 # Netease settings
 netease_comment: false
@@ -71,15 +69,15 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "wave the tide </br>在前端浪潮中勇敢前行"
+sidebar-avatar: /img/avatar-wylin-ny.jpg.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
