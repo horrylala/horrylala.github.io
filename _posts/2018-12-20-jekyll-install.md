@@ -3,16 +3,17 @@ layout:     post
 title:      "Jekyll Install"
 subtitle:   " \"Hello World, 第一篇博客\""
 date:       2018-12-20 21:00:00
-author:     "Hux"
+author:     "Horrylala"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - Jekyll
-    - Meta
+    - Blog
 ---
 
 > “Yeah It's on. ”
-# jekkyll安装异常
+
+## jekyll安装
 
 ```bash
 xcode-select --install #  install the command-line tools
@@ -22,7 +23,7 @@ gem install --user-install bundler jekyll # home directory
 export GEM_HOME=$HOME/gems
 export PATH=$HOME/gems/bin:$PATH
 ```
-
+## 出现问题
 ```bash
 active developer path ("/Applications/Xcode.app/Contents/Developer") does not exist
 Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.

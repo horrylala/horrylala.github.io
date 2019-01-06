@@ -1,11 +1,11 @@
 # Site settings
-title: horrylala Blog
-SEOTitle: 王永林的博客 | horrylala Blog
+title: Horrylala Blog
+SEOTitle: 王永林的博客 | Horrylala Blog
 header-img: img/home-bg.jpg
 email: horrylala@outlook.com
 description: "Cool blog | 大前端 , Web SoftWare Enginner | 这是horrylala的私人博客"
 keyword: "horrylala, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-#url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://horrylala.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -77,7 +77,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "wave the tide </br>在前端浪潮中勇敢前行"
-sidebar-avatar: /img/avatar-wylin-ny.jpg.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-horrylala-ny.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -100,38 +100,38 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    }
+#     {
+#     #     title: "Su",
+#     #     href: "http://su.gallery/"
+#     # },{
+#         title: "乱序",
+#         href: "http://mida.re/"
+#     },{
+#         title: "前端外刊评论",
+#         href: "http://qianduan.guru/"
+#     },{
+#         title: "天镶的博客",
+#         href: "http://lingyu.wang/"
+#     },{
+#         title: "Luke 的自留地",
+#         href: "http://hmqk1995.github.io"
+#     },{
+#         title: "Ebn's Blog",
+#         href: "http://ebnbin.com/"
+#     },{
+#         title: "SmdCn's Blog",
+#         href: "http://blog.smdcn.net"
+#     },{
+#         title: "David's Game",
+#         href: "https://www.ruoyaowu.com/"
+#     },{
+#         title: "DHong Say",
+#         href: "http://dhong.co"
+#     },{
+#         title: "尹峰以为",
+#         href: "http://ingf.github.io/"
+#     },{
+#         title: "解旻的博客",
+#         href: "http://xieminis.me/"
+#     }
 ]
