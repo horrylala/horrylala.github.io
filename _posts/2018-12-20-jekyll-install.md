@@ -57,5 +57,5 @@ source .bash_profile
 ```bash
 jekyll new myblog
 cd myblog
-bundle exec jekyll serve
+jekyll serve
 ```
