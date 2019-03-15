@@ -28,13 +28,19 @@ XSS是跨站脚本攻击(Cross Site Scripting)简写，为了不和层叠样式�
 在前端执行，因此不要不可信的内容作为html插入到页面。，比如.innerHtml/.outerHtml/document.write或者VUE中的v-html
 
 # 预防办法
-1.对输入的内容进行转义：'<'、'>'、'&'、' '等，使用escapeHTML
+> 1.对输入的内容进行转义：'<'、'>'、'&'、' '等，使用escapeHTML等。
 ```javascript
-a.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;")
+a.replace(/&/g, "&amp;")
+.replace(/</g, "&lt;")
+.replace(/>/g, "&gt;")
+.replace(/"/g, "&quot;")
+.replace(/'/g, "&apos;")
 ```
-2.长度校验
-3.非法schema,禁止以javascript开头的
-4.CSP
+> 2.长度校验
+
+> 3.非法schema,禁止以javascript开头的
+
+> 4.CSP
 CSP(ontent Security Policy,内容安全策略)，是为了解决网络安全提出的内容策略。
 可以设置：
 禁止加载外域代码
