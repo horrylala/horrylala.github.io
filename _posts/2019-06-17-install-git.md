@@ -1,4 +1,5 @@
-yout:     post
+---
+layout:     post
 title:      "centos安装git"
 subtitle:   " \"git\""
 date:       2019-06-17 11:14:00
