@@ -19,7 +19,7 @@ yum -y install git
 
 ## Generate SSH key
 ```bash
-ssh-keygen -t rsa -C "horrylala@outlook.com"
+ssh-keygen -t rsa -C "youremail@email.com"
 ```
 连续几个回车空格，得到id_rsa和id_rsa.pib，在/root/.ssh下面，说明生产成功。
 
@@ -46,6 +46,18 @@ Hi ***! You've successfully authenticated, but GitHub does not provide shell acc
 则表明验证成功。
 
 ## 使用
+clone自己的仓库：
+```bash
+git clone git@github.com:yourusername/yourrepositoryname
+```
+
+如果已经使用https协议克隆，那么：
+```bash
+git remote set-url origin git@github.com:yourusername/yourrepositoryname
+```
+就可以push不用**每次**都输密码。
+
+## git常用命令
 git常用命令
 > git clone url
 > git checkout master
