@@ -1,5 +1,17 @@
-# React 和 vue的相同点和不同点
-> 一直打算找个时间，梳理下react和vue的异同，今天终于有时间了。
+---
+layout:     post
+title:      "React和Vue的相同点和不同点"
+subtitle:   " \"一直打算找个时间，梳理下react和vue的异同，今天终于有时间了\""
+date:       2019-09-0 16:14:00
+author:     "Horrylala"
+header-img: "img/react-vs-vue.jpg"
+catalog: true
+tags:
+    - Frameworks
+    - React
+    - Vue
+    - JavaScript
+---
 
 ## 相同点
 
