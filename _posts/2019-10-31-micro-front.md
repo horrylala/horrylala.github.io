@@ -4,7 +4,7 @@ title:      "微前端"
 subtitle:   " \"微前端，在路上\""
 date:       2019-12-31 21:15:00
 author:     "Horrylala"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/micro-front.jpeg"
 catalog: true
 tags:
     - 微前端
