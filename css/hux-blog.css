@@ -537,7 +537,7 @@ pre.highlight {
 .highlighter-rouge .highlight table > tbody > tr > td > pre {
   padding: 14px;
 }
-.highlighter-rouge .highlight td.rouge-gutter {
+.highlighter-rouge .highlight td.rouge-gutter, td.gutter {
   width: 56px;
 }
 .highlighter-rouge .highlight .lineno {
