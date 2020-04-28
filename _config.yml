@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: horrylala@outlook.com
 description: "Cool blog | 大前端 , Web SoftWare Enginner | 这是horrylala的私人博客"
 keyword: "horrylala, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://horrylala.github.io"              # your host, for absolute URL
+url: "https://horrylala.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
