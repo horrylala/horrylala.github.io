@@ -63,7 +63,7 @@ kramdown:
 netease_comment: false
 
 # GitTalk settings
-gittalk_comment: true
+gittalk_comment: falses
 
 
 
